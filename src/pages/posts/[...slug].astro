@@ -14,6 +14,10 @@ import ImageWrapper from "../../components/misc/ImageWrapper.astro";
 import { profileConfig, siteConfig } from "../../config";
 import { formatDateToYYYYMMDD } from "../../utils/date-utils";
 
+import { Disqus } from 'astro-disqus';
+const shortname = 'honyakusekai';
+const url = Astro.site + Astro.url.pathname;
+
 export async function getStaticPaths() {
 	const blogEntries = await getSortedPosts();
 	return blogEntries.map((entry) => ({
@@ -130,5 +134,15 @@ const jsonLd = {
             </div>}
         </a>
     </div>
+
+    <!-- Disqus BEGIN -->
+    <div class="bg-white dark:bg-[#181e24] rounded-lg p-4">
+      <Disqus
+        embed={`https://${shortname}.disqus.com/embed.js`} 
+        url={url} 
+        class="mt-8"
+      />
+    </div>
+    <!-- Disqus END -->
 
 </MainGridLayout>

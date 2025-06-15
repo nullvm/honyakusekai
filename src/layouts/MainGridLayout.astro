@@ -15,10 +15,6 @@ import {
 } from "../constants/constants";
 import Layout from "./Layout.astro";
 
-import { Disqus } from 'astro-disqus';
-const shortname = 'honyakusekai';
-const url = Astro.site + Astro.url.pathname;
-
 interface Props {
 	title?: string;
 	banner?: string;
@@ -91,15 +87,6 @@ const mainPanelTop = siteConfig.banner.enable
                     <!-- the overflow-hidden here prevent long text break the layout-->
                     <!-- make id different from windows.swup global property -->
                     <slot></slot>
-                    <!-- Disqus BEGIN -->
-                    <div class="bg-white dark:bg-[#181e24] rounded-lg p-4">
-                      <Disqus
-                        embed={`https://${shortname}.disqus.com/embed.js`} 
-                        url={url} 
-                        class="mt-8"
-                      />
-                    </div>
-                    <!-- Disqus END -->
                     <div class="footer col-span-2 onload-animation hidden lg:block">
                     <Footer></Footer>
                     </div>
