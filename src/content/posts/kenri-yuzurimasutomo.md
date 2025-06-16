@@ -42,7 +42,7 @@ The young deputy, who happened to be visiting the mansion to make a report, aske
 
 "It's a big deal."
 
-"Something has happened to the Lady Florence.
+"Something has happened to the Lady Florence?"
 
 "I may have to retire five years early."
 
