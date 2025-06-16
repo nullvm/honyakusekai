@@ -2,7 +2,7 @@
 title: 馬車の行く先 - Where the Carriage Goes
 published: 2025-06-16
 description: "Lady Feline, you must be very tired. When you return to the house, I will prepare a cup of tea with your favorite apples. When you get back to the house, I'll make you a cup of tea with your favorite apples."
-tags: [English]
+tags: [English, Short Story]
 category: Translation
 draft: false
 ---
