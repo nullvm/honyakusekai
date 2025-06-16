@@ -17,7 +17,7 @@ Writing letters is difficult. ......
 
 Dear Father
 
-I am so glad to see the lovely camellia flowers blooming in the courtyard where I like to spend my time. My schoolwork is going well, and I have been awarded first place for this term! I am sure it will only go downhill from here on out! I am happy that your father is proud of me, even if only a little. The other day, I went to water the flower beds that I am in charge of, and I was curious to see where the flowers had been planted. 
+I am so glad to see the lovely camellia flowers blooming in the courtyard where I like to spend my time. My schoolwork is going well, and I have been awarded first place for this term! I am sure it will only go downhill from here on out! I am happy that father is proud of me, even if only a little. The other day, I went to water the flower beds that I am in charge of, and I was curious to see where the flowers had been planted. 
 
 And then, oh my! There were precious koedenaknar seeds planted there! I earnestly conveyed to the teacher that I would by all means like them to hand it over to me, but I was unfortunately refused. What a pity. It is true that koedenaknar is highly toxic, and if accidentally ingested can cause loss of voice, and the antidote may or may not be effective. ...... I'm not going to try to infuse it or mix it into a candy. It was the first time I had seen it in the flesh and I should have observed it more carefully.
 
