@@ -1,7 +1,7 @@
 ---
 title: 権利？譲りますとも - Rights? I'll Give Them to You.
 published: 2025-06-16
-description: "Lady Feline, you must be very tired. When you return to the house, I will prepare a cup of tea with your favorite apples. When you get back to the house, I'll make you a cup of tea with your favorite apples."
+description: "Dear Father. I am so glad to see the lovely camellia flowers blooming in the courtyard where I like to spend my time. My schoolwork is going well, and I have been awarded first place for this term! I am sure it will only go downhill from here on out! I am happy that father is proud of me, even if only a little. The other day, I went to water the flower beds that I am in charge of, and I was curious to see where the flowers had been planted."
 tags: [English, Short Story]
 category: Translation
 draft: false
