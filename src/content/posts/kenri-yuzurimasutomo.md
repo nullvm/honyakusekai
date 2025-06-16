@@ -48,7 +48,7 @@ The young deputy, who happened to be visiting the mansion to make a report, aske
 
 "Pardon me ......?"
 
-“Florence, I hear he has captured a very respectable young man with a strange love of politics.”
+“Florence, I hear she has captured a very respectable young man with a strange love of politics.”
 
 When the steward was shown the letter from Laos, he smiled and said, “That's wonderful news.,” but the young deputy was puzzled.
 
