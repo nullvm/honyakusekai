@@ -19,3 +19,4 @@ Namun, hal-hal yang dia lakukan demi keluarga tercinta entah mengapa selalu menj
 Daftar Isi:
 
 1. [Situasiku Setelah Reinkarnasi](../isekai-yuruyuru-1/)
+2. [Hutan Lebat Pertama](../isekai-yuruyuru-2/)

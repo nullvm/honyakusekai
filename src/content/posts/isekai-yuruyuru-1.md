@@ -159,3 +159,7 @@ Terdengar suara Kakak Jera, dan saat aku menoleh, Kakak Chris juga ada bersamany
 Aku langsung meloncat dari sofa dan memeluk mereka berdua.
 
 Besok, untuk pertama kalinya, aku akan pergi ke Hutan Lebat.
+
+<br /><br /><br /><br /><br />
+
+Berikutnya: [Bab 2. Hutan Lebat Pertama](../isekai-yuruyuru-2/)
