@@ -72,7 +72,7 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "GitHub",
 			icon: "fa6-brands:github",
-			url: "https://github.com/nullvm/honyakusekai",
+			url: "https://github.com/nullvm",
 		},
 	],
 };
