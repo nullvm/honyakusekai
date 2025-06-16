@@ -5,10 +5,9 @@ description: An overview of what this website is all about.
 tags: [Information]
 category: Misc
 draft: false
-author: Yolk
 ---
 
-This site was created by a developer known as [nullvm](https://github.com/nullvm)—a personal project born out of curiosity, passion for language, and the desire to learn by doing. Like many developers, he wanted a space where ideas could be built in public, and in this case, the idea was simple: turn language learning into a living, evolving process.
+This site was created by a developer named [nullvm](https://github.com/nullvm)—a personal project born out of curiosity, passion for language, and the desire to learn by doing. Like many developers, he wanted a space where ideas could be built in public, and in this case, the idea was simple: turn language learning into a living, evolving process.
 
 As someone actively learning Japanese, nullvm realized that traditional methods—apps, flashcards, and isolated grammar drills—weren’t enough. What was missing was context. That’s where translation comes in. Translation forces you to engage deeply with content: it makes you slow down, notice structure, and truly think in both languages. So this site was built as a space to make learning Japanese more immersive and more meaningful—by translating real content and sharing the process.
 
