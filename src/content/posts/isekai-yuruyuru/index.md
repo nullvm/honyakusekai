@@ -7,7 +7,7 @@ category: Translation
 draft: false
 ---
 
-> Versi Raw: https://ncode.syosetu.com/n9286kj/  
+> Sumber: https://ncode.syosetu.com/n9286kj/  
 > Penulis: [葉月ゆな](https://mypage.syosetu.com/2893539/)
 
 【Mencapai 2 Juta PV!! Terima kasih】
