@@ -20,3 +20,6 @@ Daftar Isi:
 
 1. [Situasiku Setelah Reinkarnasi](../isekai-yuruyuru-1/)
 2. [Hutan Lebat Pertama](../isekai-yuruyuru-2/)
+3. [Sumber Suara Tangisan](../isekai-yuruyuru-3/)
+4. [Sihir Apa yang dDgunakan Oleh Kapten Kyle?](../isekai-yuruyuru-4/)
+5. [Hidup Bulu Halus!](../isekai-yuruyuru-5/)

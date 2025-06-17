@@ -74,6 +74,11 @@ export const profileConfig: ProfileConfig = {
 			icon: "fa6-brands:github",
 			url: "https://github.com/nullvm",
 		},
+    {
+      name: "GMail",
+      icon: "material-symbols:mail",
+      url: "mail:deniandriancode@gmail.com",
+    },
 	],
 };
 

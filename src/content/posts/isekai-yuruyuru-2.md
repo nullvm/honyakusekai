@@ -153,4 +153,5 @@ Tapi sekarang, hal terpenting adalah menaklukkan Silver Wolf yang ada di depan m
 
 <br /><br /><br /><br /><br />
 
+Berikutnya: [Bab 3. Sumber Suara Tangisan](../isekai-yuruyuru-3/)  
 Sebelumnya: [Bab 1. Situasiku Setelah Reinkarnasi](../isekai-yuruyuru-1/)
