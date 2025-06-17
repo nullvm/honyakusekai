@@ -75,9 +75,9 @@ export const profileConfig: ProfileConfig = {
 			url: "https://github.com/nullvm",
 		},
     {
-      name: "GMail",
+      name: "Gmail",
       icon: "material-symbols:mail",
-      url: "mail:deniandriancode@gmail.com",
+      url: "mailto:honyakusekaiofficial@gmail.com",
     },
 	],
 };
