@@ -7,7 +7,7 @@ category: Translation
 draft: false
 ---
 
-> Source: https://kakuyomu.jp/works/16818622174152119691
+> Source: https://kakuyomu.jp/works/16818622174152119691  
 > Author: [無職無能の自由人](https://kakuyomu.jp/users/nonenone)
 
 "Feel Free to Read When You're Bored."

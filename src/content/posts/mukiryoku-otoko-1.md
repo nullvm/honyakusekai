@@ -8,7 +8,7 @@ draft: false
 ---
 
 > Index: [The Dungeon Life of a Slacker Who Just Wants to Be Free](../mukiryoku-otoko/)  
-> Source Material: https://kakuyomu.jp/works/16818622174152119691/episodes/16818622174153165765
+> Source Material: https://kakuyomu.jp/works/16818622174152119691/episodes/16818622174153165765  
 > Translator: [nullvm](https://github.com/nullvm)  
 
 "Morita. You’re heading out at ten tonight to hit three family restaurants. Be here by nine to load up."
