@@ -101,3 +101,6 @@ Just a single coin. But it was real money. And with that, my brain jumped ten st
 
 I hung up mid-reply. A half-hearted lie was enough.
 
+<br /><br /><br /><br /><br />
+
+Next: [Chapter 2. Do You Want to be Strong?](../mukiryoku-otoko-2/)
